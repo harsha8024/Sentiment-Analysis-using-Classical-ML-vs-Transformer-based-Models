@@ -118,5 +118,6 @@ Open `notebooks/experiments.ipynb` in VS Code or Jupyter Lab to see:
 
 ---
 
-**Author:** Harsha Swaroop, Diksha CR
+**Authors:** Harsha Swaroop, Diksha CR
+
 **Course:** NLP for LLM
