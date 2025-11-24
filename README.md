@@ -1,4 +1,4 @@
-# LLMAAT: Sentiment Analysis of Movie Reviews
+# Sentiment Analysis of Movie Reviews
 
 ### Comparative Study: Classical ML vs. Transformer Models
 
